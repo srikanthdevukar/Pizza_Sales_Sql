@@ -27,7 +27,7 @@ This project showcases a comprehensive SQL-based analysis of a pizza sales datas
 
  ## Tools Used
  
-- MySQL Woekbench
+- MySQL Workbench
 
 ## Results
   After executing a series of SQL queries across four interconnected tables (orders,  order_details, pizzas, pizza_types), the following insights were derived:
