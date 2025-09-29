@@ -18,13 +18,13 @@ This project showcases a comprehensive SQL-based analysis of a pizza sales datas
 - Cumulative revenue generated over time
 - Top 3 most ordered pizza types by revenue for each pizza category
 
-## ample Insights
+## Sample Insights
 - Classic pizzas are most popular; Chicken least.
 - Large size is preferred by customers.
 - Top-selling pizza: Classic Deluxe  Least: Brie Carre
 - Average price: $37  Avg quantity: 2
 - Peak order time: 12–1 PM  Most orders on Friday
 
-- #Tools Used
-- 
-MySQL Woekbench
+ #Tools Used
+ 
+- MySQL Woekbench
