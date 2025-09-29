@@ -25,6 +25,21 @@ This project showcases a comprehensive SQL-based analysis of a pizza sales datas
 - Average price: $37  Avg quantity: 2
 - Peak order time: 12–1 PM  Most orders on Friday
 
- #Tools Used
+ ## Tools Used
  
 - MySQL Woekbench
+
+  ## Results
+  After executing a series of SQL queries across four interconnected tables (orders, order_details, pizzas, pizza_types), the following insights were derived:
+- Total Orders: A precise count of all unique orders placed.
+- Total Revenue: Calculated by multiplying quantity and price across all pizzas sold.
+- Top Pizza: Classic Deluxe Pizza emerged as the highest-selling item.
+- Least Pizza: Brie Carre Pizza had the lowest sales.
+- Preferred Size: Customers most frequently ordered Large (L) pizzas.
+- Popular Category: Classic pizzas dominated sales; Chicken pizzas were least preferred.
+- Average Order: Customers typically spent $37 and ordered 2 pizzas per transaction.
+- Peak Time: Most orders were placed between 12:00 PM and 1:00 PM.
+- Popular Day: Friday saw the highest order volume; Sunday the lowest.
+- Revenue Distribution: A few pizza types contributed disproportionately to total revenue.
+- Cumulative Revenue: Showed consistent growth over time, with spikes during peak hours and days.
+
