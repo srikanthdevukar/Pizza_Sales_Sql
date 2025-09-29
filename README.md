@@ -7,13 +7,13 @@ Basic Queries
 - Highest-priced pizza
 - Most common pizza size ordered
 - Top 5 most ordered pizza types with quantities
-🟡 Intermediate Queries
+##🟡 Intermediate Queries
 - Total quantity of each pizza category ordered
 - Distribution of orders by hour of the day
 - Category-wise distribution of pizzas
 - Average number of pizzas ordered per day
 - Top 3 most ordered pizza types based on revenue
-🔴 Advanced Queries
+##🔴 Advanced Queries
 - Percentage contribution of each pizza type to total revenue
 - Cumulative revenue generated over time
 - Top 3 most ordered pizza types by revenue for each pizza category
